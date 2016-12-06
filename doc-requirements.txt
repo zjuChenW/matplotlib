@@ -12,3 +12,4 @@ ipython
 mock
 colorspacious
 pillow
+#这是一条测试语句，用来测试GitHub的版本管理功能。网页版编辑，时间2016/12/6 17：05。
